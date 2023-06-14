@@ -1,0 +1,2 @@
+<img src="<?php echo e(url('/frontend/images/content/logo.png')); ?>" alt="Luxspace | Fulfill your house with beautiful furniture" />
+<?php /**PATH /home/rammkanaeru/laravel/youtube-ustadz/luxspace/resources/views/components/authentication-card-logo.blade.php ENDPATH**/ ?>
